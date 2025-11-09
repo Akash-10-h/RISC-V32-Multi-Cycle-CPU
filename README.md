@@ -152,7 +152,3 @@ add_test.hex generated successfully!
 Special thanks to the RISC-V community for open ISA resources and academic guides that inspired this educational implementation.
 
 ```
-
-
-- Or keep it as a clean, technical README for now?
-```
