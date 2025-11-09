@@ -97,7 +97,7 @@ RISC-V32-MultiCycle-CPU/
 ### 🧪 Simulation (ModelSim / Vivado)
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/RISC-V32-MultiCycle-CPU.git
+   git clone https://github.com/Akash-10-h/RISC-V32-MultiCycle-CPU.git
    cd RISC-V32-MultiCycle-CPU
 ````
 
