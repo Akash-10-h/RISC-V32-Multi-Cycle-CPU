@@ -27,10 +27,17 @@ This project follows a **multi-cycle architecture**, executing one instruction i
 
 ---
 
-## 📂 Project Structure
 
 ```
 
+```
+
+
+
+```markdown
+## 📂 Project Structure
+
+```bash
 RISC-V32-MultiCycle-CPU/
 │
 ├── src/
@@ -61,6 +68,10 @@ RISC-V32-MultiCycle-CPU/
 │   └── design_notes.pdf
 │
 └── README.md
+```
+```
+
+---
 
 ````
 
